@@ -93,9 +93,7 @@ conn.sync().then(()=>{
 })
 
 
-//ola recrutador,me chamo exodia,sou o responsavel pelo portifolio do meu amigo thiago,como posso te ajudar?
-// ver principais projetos,ver o repositorio do gituhub,ver o perfil do linkedin
-// ver mais sobre informacoes pessoais,profissionais
+
 
 
 
